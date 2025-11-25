@@ -1,2 +1,5 @@
-# avi-portfolio
-first github project created on 06Nov2025
+# My Portfolio
+
+- 🧑‍💻 Name: Avinash
+- 🌱 Learning: DevOps, GitHub, Docker
+- 📫 Contact: avinash@leftbin.com
